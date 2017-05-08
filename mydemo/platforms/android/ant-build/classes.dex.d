@@ -1,0 +1,20 @@
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes.dex : \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\com\phonegap\helloworld\BuildConfig.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\com\phonegap\helloworld\HelloWorld.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\com\phonegap\helloworld\Manifest$permission.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\com\phonegap\helloworld\Manifest.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\com\phonegap\helloworld\R$attr.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\com\phonegap\helloworld\R$drawable.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\com\phonegap\helloworld\R$string.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\com\phonegap\helloworld\R$xml.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\com\phonegap\helloworld\R.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\com\plugin\gcm\CordovaGCMBroadcastReceiver.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\com\plugin\gcm\GCMIntentService.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\com\plugin\gcm\PushHandlerActivity.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\com\plugin\gcm\PushPlugin.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\org\apache\cordova\camera\CameraLauncher.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\org\apache\cordova\camera\ExifHelper.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\classes\org\apache\cordova\camera\FileHelper.class \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\dexedLibs\classes-866379947564f1791ad44426f48481d1.jar \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\dexedLibs\gcm-2873f529cb93bf75b554db23b388f0db.jar \
+D:\Neha\Workspace\mydemo\platforms\android\ant-build\dexedLibs\android-support-v13-2bffd54966b64ee7133070487add64ba.jar \
